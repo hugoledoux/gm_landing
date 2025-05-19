@@ -1,0 +1,53 @@
+
+- category: Mandatory Courses
+  links:
+    - name: GEO1000
+      url: https://brightspace.tudelft.nl
+      extra: Programming
+    - name: GEO1001
+      url: https://brightspace.tudelft.nl
+      extra: Acquitions
+    - name: GEO1002
+      url: https://brightspace.tudelft.nl
+      extra: GIS
+    - name: GEO1015
+      url: https://3d.bk.tudelft.nl/courses/geo1015
+      extra: DTM
+    - name: GEO1016
+      url: https://3d.bk.tudelft.nl/courses/geo1016
+      extra: 3D vision      
+    - name: GEO1004
+      url: https://3d.bk.tudelft.nl/courses/geo1004
+      extra: 3D modelling
+
+- category: Electives
+  links:
+    - name: GEO5010
+      url: https://3d.bk.tudelft.nl/courses/geo5010/
+      extra: Research orientation
+    - name: GEO5017
+      url: https://3d.bk.tudelft.nl/courses/geo5017
+      extra: ML
+    - name: GEO5019
+      url: https://geomatics.bk.tudelft.nl/geo5019
+      extra: Graduation studio
+    - name: GEOIT1501
+      url: https://geomatics.bk.tudelft.nl/geogeoit1501
+      extra: Synthesis project
+
+- category: Help
+  links:
+    - name: geogeeks
+      url: https://geomatics.bk.tudelft.nl/geogeeks
+      extra: by geo-nerds, for geo-nerds
+    - name: discord
+      url: https://discord.com/invite/7AtyApHXrq
+    
+
+- category: Useful links
+  links:
+    - name: Official MSc Geomatics page
+      url: https://geomatics.tudelft.nl
+    - name: TUDelft templates+logos
+      url: https://www.tudelft.nl/en/tu-delft-corporate-design
+    
