@@ -41,6 +41,25 @@
       url: https://geomatics.bk.tudelft.nl/geoit1501
       extra: Synthesis project
 
+    
+- category: MOOCS  
+  links:
+    - name: Linear Algebra I
+      url: https://online-learning.tudelft.nl/courses/linear-algebra-i-vectors-and-linear-equations/  
+      extra: Vectors and Linear Equations
+    - name: Linear Algebra II
+      url: https://online-learning.tudelft.nl/courses/linear-algebra-ii-matrices-and-linear-transformations/  
+      extra: Matrices and Linear Transformations
+    - name: Probability Theory
+      url: https://online-learning.tudelft.nl/courses/probability-theory/  
+    - name: Calculus I
+      url: https://online-learning.tudelft.nl/courses/calculus-i-from-functions-to-differential-equations/
+      extra: From Functions to Differential Equations
+    - name: Calculus II
+      url: https://online-learning.tudelft.nl/courses/calculus-ii-multivariable-functions/
+      extra: Multivariable Functions
+
+
 - category: Help
   links:
     - name: geogeeks
@@ -61,11 +80,6 @@
       url: https://www.tudelft.nl/en/tu-delft-corporate-design
     - name: Board of Studies (BoS)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
-
-    
-# - category: Another category
-#   links:
-#     - name: Official MSc Geomatics page
-#       url: https://geomatics.tudelft.nl
-#     - name: TUDelft templates+logos
-#       url: https://www.tudelft.nl/en/tu-delft-corporate-design
+    - name: Board of Examiners (BoE)
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
+      extra: Edward Verbree 
