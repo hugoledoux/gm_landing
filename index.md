@@ -13,12 +13,11 @@ layout: default
         {% for each in cat.links %}
           <tr>
             <td><a href="{{each.url}}">{{each.name}}</a></td>
-            <td >
+            <td class="text-left">
             {% if each.extra %}
               &emsp;{{each.extra}}
             {% endif %}
             </td>
-          <!-- <br> -->
           </tr>
         {% endfor %}
         </tbody>

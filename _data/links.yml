@@ -45,10 +45,13 @@
   links:
     - name: geogeeks
       url: https://geomatics.bk.tudelft.nl/geogeeks
-      extra: By geo-nerds, for geo-nerds.
-    - name: discord
+      extra: 🤓
+    - name: Discord
       url: https://discord.com/invite/7AtyApHXrq
       extra: Discuss with others
+    - name: Academic councellors
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
+      extra: Struggling?
     
 - category: Useful links
   links:
