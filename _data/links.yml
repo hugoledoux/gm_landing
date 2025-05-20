@@ -6,10 +6,13 @@
       extra: Programming
     - name: GEO1001
       url: https://brightspace.tudelft.nl
-      extra: Acquitions
+      extra: Acquition
     - name: GEO1002
       url: https://brightspace.tudelft.nl
       extra: GIS
+    - name: GEO1003
+      url: https://brightspace.tudelft.nl
+      extra: GPS
     - name: GEO1015
       url: https://3d.bk.tudelft.nl/courses/geo1015
       extra: DTM
@@ -19,6 +22,9 @@
     - name: GEO1004
       url: https://3d.bk.tudelft.nl/courses/geo1004
       extra: 3D modelling
+    - name: GEO2021
+      url: https://geomatics.bk.tudelft.nl/geo2021
+      extra: thesis      
 
 - category: Electives
   links:
@@ -32,22 +38,31 @@
       url: https://geomatics.bk.tudelft.nl/geo5019
       extra: Graduation studio
     - name: GEOIT1501
-      url: https://geomatics.bk.tudelft.nl/geogeoit1501
+      url: https://geomatics.bk.tudelft.nl/geoit1501
       extra: Synthesis project
 
 - category: Help
   links:
     - name: geogeeks
       url: https://geomatics.bk.tudelft.nl/geogeeks
-      extra: by geo-nerds, for geo-nerds
+      extra: By geo-nerds, for geo-nerds.
     - name: discord
       url: https://discord.com/invite/7AtyApHXrq
+      extra: Discuss with others
     
-
 - category: Useful links
   links:
     - name: Official MSc Geomatics page
       url: https://geomatics.tudelft.nl
     - name: TUDelft templates+logos
       url: https://www.tudelft.nl/en/tu-delft-corporate-design
+    - name: Board of Studies (BoS)
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
+
     
+# - category: Another category
+#   links:
+#     - name: Official MSc Geomatics page
+#       url: https://geomatics.tudelft.nl
+#     - name: TUDelft templates+logos
+#       url: https://www.tudelft.nl/en/tu-delft-corporate-design
