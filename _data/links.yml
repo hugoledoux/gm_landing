@@ -1,32 +1,20 @@
 
-- category: Mandatory Courses
+- category: Core courses (with own website)
   links:
-    - name: GEO1000
-      url: https://brightspace.tudelft.nl
-      extra: Programming
-    - name: GEO1001
-      url: https://brightspace.tudelft.nl
-      extra: Acquition
-    - name: GEO1002
-      url: https://brightspace.tudelft.nl
-      extra: GIS
-    - name: GEO1003
-      url: https://brightspace.tudelft.nl
-      extra: GPS
+    - name: GEO1004
+      url: https://3d.bk.tudelft.nl/courses/geo1004
+      extra: 3D modelling
     - name: GEO1015
       url: https://3d.bk.tudelft.nl/courses/geo1015
       extra: DTM
     - name: GEO1016
       url: https://3d.bk.tudelft.nl/courses/geo1016
       extra: 3D vision      
-    - name: GEO1004
-      url: https://3d.bk.tudelft.nl/courses/geo1004
-      extra: 3D modelling
     - name: GEO2021
       url: https://geomatics.bk.tudelft.nl/geo2021
       extra: thesis      
 
-- category: Electives
+- category: Electives (with own website)
   links:
     - name: GEO5010
       url: https://3d.bk.tudelft.nl/courses/geo5010/
@@ -40,46 +28,54 @@
     - name: GEOIT1501
       url: https://geomatics.bk.tudelft.nl/geoit1501
       extra: Synthesis project
+    - name: IFM4040 
+      url: https://www.jointinterdisciplinaryproject.nl/
+      extra: JIP 
 
     
-- category: MOOCS  
+- category: MOOCs  
   links:
-    - name: Linear Algebra I
+    - name: Linear algebra I
       url: https://online-learning.tudelft.nl/courses/linear-algebra-i-vectors-and-linear-equations/  
-      extra: Vectors and Linear Equations
-    - name: Linear Algebra II
+      # extra: Vectors and linear equations
+    - name: Linear algebra II
       url: https://online-learning.tudelft.nl/courses/linear-algebra-ii-matrices-and-linear-transformations/  
-      extra: Matrices and Linear Transformations
-    - name: Probability Theory
+      # extra: Matrices and linear transformations
+    - name: Probability theory
       url: https://online-learning.tudelft.nl/courses/probability-theory/  
     - name: Calculus I
       url: https://online-learning.tudelft.nl/courses/calculus-i-from-functions-to-differential-equations/
-      extra: From Functions to Differential Equations
+      # extra: From functions to differential equations
     - name: Calculus II
       url: https://online-learning.tudelft.nl/courses/calculus-ii-multivariable-functions/
-      extra: Multivariable Functions
+      # extra: Multivariable functions
 
-
-- category: Help
-  links:
-    - name: geogeeks
-      url: https://geomatics.bk.tudelft.nl/geogeeks
-      extra: 🤓
-    - name: Discord
-      url: https://discord.com/invite/7AtyApHXrq
-      extra: Discuss with others
-    - name: Academic councellors
-      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
-      extra: Struggling?
     
 - category: Useful links
   links:
+    - name: Study guide 2025-2026
+      url: https://studyguide2526.tudelft.nl/opleidingen/study-guide/educations/10542
     - name: Official MSc Geomatics page
       url: https://geomatics.tudelft.nl
     - name: TUDelft templates+logos
       url: https://www.tudelft.nl/en/tu-delft-corporate-design
-    - name: Board of Studies (BoS)
+    - name: BK Board of Studies (BoS)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
-    - name: Board of Examiners (BoE)
+    - name: BK Board of Examiners (BoE)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
       extra: Edward Verbree 
+
+- category: Help
+  links:
+    - name: Academic councellors
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
+      extra: Struggling?
+    - name: Discord
+      url: https://discord.com/invite/7AtyApHXrq
+      extra: Discuss with others
+    - name: Geogeeks
+      url: https://geomatics.bk.tudelft.nl/geogeeks
+      extra: 🤓
+    - name: MSc Geomatics forms
+      url: https://www.tudelft.nl/studenten/bk-studentenportal/praktische-zaken/formulieren
+      # extra: 
