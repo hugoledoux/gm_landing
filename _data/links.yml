@@ -24,7 +24,7 @@
       extra: ML
     - name: GEO5019
       url: https://geomatics.bk.tudelft.nl/geo5019
-      extra: Graduation studio
+      extra: Geomatics Studio
     - name: GEOIT1501
       url: https://geomatics.bk.tudelft.nl/geoit1501
       extra: Synthesis project
@@ -59,10 +59,10 @@
       url: https://geomatics.tudelft.nl
     - name: TUDelft templates+logos
       url: https://www.tudelft.nl/en/tu-delft-corporate-design
-    - name: BK Board of Studies (BoS)
+    - name: BK Boards of Studies (BoS)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
     - name: BK Board of Examiners (BoE)
-      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/board-of-examiners
       extra: Edward Verbree 
 
 - category: Help
