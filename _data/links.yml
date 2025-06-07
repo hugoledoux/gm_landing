@@ -13,6 +13,9 @@
     - name: GEO2021
       url: https://geomatics.bk.tudelft.nl/geo2021
       extra: thesis      
+    - name: GEO2020 
+      url: https://3d.bk.tudelft.nl/courses/geo2020
+      extra: <2024 thesis            
 
 - category: Electives (with own website)
   links:
