@@ -10,12 +10,12 @@
     - name: GEO1016
       url: https://3d.bk.tudelft.nl/courses/geo1016
       extra: 3D vision      
-    - name: GEO2021
-      url: https://geomatics.bk.tudelft.nl/geo2021
-      extra: thesis      
     - name: GEO2020 
       url: https://3d.bk.tudelft.nl/courses/geo2020
       extra: <2024 thesis            
+    - name: GEO2021
+      url: https://geomatics.bk.tudelft.nl/geo2021
+      extra: thesis      
 
 - category: Electives (with own website)
   links:
@@ -38,6 +38,12 @@
     
 - category: MOOCs  
   links:
+    - name: Calculus I
+      url: https://online-learning.tudelft.nl/courses/calculus-i-from-functions-to-differential-equations/
+      # extra: From functions to differential equations
+    - name: Calculus II
+      url: https://online-learning.tudelft.nl/courses/calculus-ii-multivariable-functions/
+      # extra: Multivariable functions
     - name: Linear algebra I
       url: https://online-learning.tudelft.nl/courses/linear-algebra-i-vectors-and-linear-equations/  
       # extra: Vectors and linear equations
@@ -46,12 +52,6 @@
       # extra: Matrices and linear transformations
     - name: Probability theory
       url: https://online-learning.tudelft.nl/courses/probability-theory/  
-    - name: Calculus I
-      url: https://online-learning.tudelft.nl/courses/calculus-i-from-functions-to-differential-equations/
-      # extra: From functions to differential equations
-    - name: Calculus II
-      url: https://online-learning.tudelft.nl/courses/calculus-ii-multivariable-functions/
-      # extra: Multivariable functions
 
     
 - category: Useful links
