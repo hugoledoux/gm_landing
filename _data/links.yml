@@ -1,4 +1,3 @@
-
 - category: Core courses (with own website)
   links:
     - name: GEO1004
@@ -9,13 +8,13 @@
       extra: DTM
     - name: GEO1016
       url: https://3d.bk.tudelft.nl/courses/geo1016
-      extra: 3D vision      
-    - name: GEO2020 
+      extra: 3D vision
+    - name: GEO2020
       url: https://3d.bk.tudelft.nl/courses/geo2020
-      extra: <2024 thesis            
+      extra: thesis <2025
     - name: GEO2021
       url: https://geomatics.bk.tudelft.nl/geo2021
-      extra: thesis      
+      extra: thesis >= 2025
 
 - category: Electives (with own website)
   links:
@@ -24,19 +23,18 @@
       extra: Research orientation
     - name: GEO5017
       url: https://3d.bk.tudelft.nl/courses/geo5017
-      extra: ML
+      extra: Machine learning
     - name: GEO5019
       url: https://geomatics.bk.tudelft.nl/geo5019
       extra: Geomatics Studio
     - name: GEOIT1501
       url: https://geomatics.bk.tudelft.nl/geoit1501
       extra: Synthesis project
-    - name: IFM4040 
+    - name: IFM4040
       url: https://www.jointinterdisciplinaryproject.nl/
-      extra: JIP 
+      extra: JIP
 
-    
-- category: MOOCs  
+- category: MOOCs
   links:
     - name: Calculus I
       url: https://online-learning.tudelft.nl/courses/calculus-i-from-functions-to-differential-equations/
@@ -45,15 +43,14 @@
       url: https://online-learning.tudelft.nl/courses/calculus-ii-multivariable-functions/
       # extra: Multivariable functions
     - name: Linear algebra I
-      url: https://online-learning.tudelft.nl/courses/linear-algebra-i-vectors-and-linear-equations/  
+      url: https://online-learning.tudelft.nl/courses/linear-algebra-i-vectors-and-linear-equations/
       # extra: Vectors and linear equations
     - name: Linear algebra II
-      url: https://online-learning.tudelft.nl/courses/linear-algebra-ii-matrices-and-linear-transformations/  
+      url: https://online-learning.tudelft.nl/courses/linear-algebra-ii-matrices-and-linear-transformations/
       # extra: Matrices and linear transformations
     - name: Probability theory
-      url: https://online-learning.tudelft.nl/courses/probability-theory/  
+      url: https://online-learning.tudelft.nl/courses/probability-theory/
 
-    
 - category: Useful links
   links:
     - name: Study guide 2025-2026
@@ -66,14 +63,14 @@
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
     - name: BK Board of Examiners (BoE)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/board-of-examiners
-      extra: Edward Verbree 
+      extra: Edward Verbree
 
 - category: Help
   links:
     - name: Academic councellors
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
       extra: Struggling?
-    - name: Discord
+    - name: Discord of MSc Geomatics
       url: https://discord.com/invite/7AtyApHXrq
       extra: Discuss with others
     - name: Geogeeks
@@ -81,4 +78,4 @@
       extra: 🤓
     - name: MSc Geomatics forms
       url: https://www.tudelft.nl/studenten/bk-studentenportal/praktische-zaken/formulieren
-      # extra: 
+      # extra:
