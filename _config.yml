@@ -20,8 +20,7 @@
 
 title: MSc Geomatics info
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hugoledoux.github.io/gm_landing/"
-
+url: "https://geomatics.bk.tudelft.nl"
 # Build settings
 # theme: minima
 # plugins:
