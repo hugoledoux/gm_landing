@@ -1,28 +1,49 @@
-- category: Core courses (with own website)
+- category: Q1+Q2 courses
   links:
-    - name: GEO1004
-      url: https://3d.bk.tudelft.nl/courses/geo1004
-      extra: 3D modelling
+    - name: GEO1000
+      url: https://brightspace.tudelft.nl/d2l/home/774994
+      extra: Programming
+    - name: GEO1001
+      url: https://brightspace.tudelft.nl/d2l/home/774995
+      extra: Sensing tech
+    - name: GEO1002
+      url: https://brightspace.tudelft.nl/
+      extra: GIS
+    - name: GEO1003
+      url: https://brightspace.tudelft.nl/
+      extra: Positioning
+    - name: GEO1006
+      url: https://brightspace.tudelft.nl/
+      extra: GeoDBMS
     - name: GEO1015
       url: https://3d.bk.tudelft.nl/courses/geo1015
       extra: DTM
+
+- category: Q3+Q4 courses
+  links:
+    - name: GEO1009
+      url: https://brightspace.tudelft.nl/
+      extra: Geo-governance
     - name: GEO1016
       url: https://3d.bk.tudelft.nl/courses/geo1016
       extra: 3D vision
-    - name: GEO2020
-      url: https://3d.bk.tudelft.nl/courses/geo2020
-      extra: thesis <2025
-    - name: GEO2021
-      url: https://geomatics.bk.tudelft.nl/geo2021
-      extra: thesis >= 2025
+    - name: GEO1004
+      url: https://3d.bk.tudelft.nl/courses/geo1004
+      extra: 3D modelling
+    - name: GEO1007
+      url: https://brightspace.tudelft.nl/
+      extra: Geoweb
 
-- category: Electives (with own website)
+- category: Electives
   links:
     - name: GEO5010
       url: https://3d.bk.tudelft.nl/courses/geo5010/
       extra: Research orientation
+    - name: GEO5016
+      url: https://geomatics.bk.tudelft.nl/geo5016/
+      extra: Internship
     - name: GEO5017
-      url: https://3d.bk.tudelft.nl/courses/geo5017
+      url: https://3d.bk.tudelft.nl/courses/geo5017/
       extra: Machine learning
     - name: GEO5019
       url: https://geomatics.bk.tudelft.nl/geo5019
@@ -33,6 +54,55 @@
     - name: IFM4040
       url: https://www.jointinterdisciplinaryproject.nl/
       extra: JIP
+
+- category: MSc thesis
+  links:
+    - name: GEO2020
+      url: https://3d.bk.tudelft.nl/courses/geo2020
+      extra: thesis <2025
+    - name: GEO2021
+      url: https://geomatics.bk.tudelft.nl/geo2021
+      extra: thesis >= 2025
+    - name: Thesis templates/tips
+      url: https://geomatics.bk.tudelft.nl/geogeeks/writing/
+      # extra: thesis >= 2025
+
+- category: Administration
+  links:
+    - name: All forms
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms
+    - name: BK Boards of Studies (BoS)
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
+      extra: Martijn Meijers
+    - name: BK Board of Examiners (BoE)
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/board-of-examiners
+      extra: Hendrik Ploeger
+
+- category: Useful links
+  links:
+    - name: Study guide 2025-2026
+      url: https://studyguide2526.tudelft.nl/opleidingen/study-guide/educations/10542
+    - name: MyTimetable
+      url: https://mytimetable.tudelft.nl/schedule
+    - name: Official MSc Geomatics page
+      url: https://geomatics.tudelft.nl
+    - name: TUDelft templates+logos
+      url: https://www.tudelft.nl/en/tu-delft-corporate-design
+
+- category: Help
+  links:
+    - name: Academic councellors
+      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
+      extra: Struggling?
+    - name: Discord of MSc Geomatics
+      url: https://discord.com/invite/7AtyApHXrq
+      extra: Discuss with others
+    - name: Geogeeks
+      url: https://geomatics.bk.tudelft.nl/geogeeks
+      extra: 🤓
+    - name: MSc Geomatics forms
+      url: https://www.tudelft.nl/studenten/bk-studentenportal/praktische-zaken/formulieren
+      # extra:
 
 - category: MOOCs
   links:
@@ -50,34 +120,3 @@
       # extra: Matrices and linear transformations
     - name: Probability theory
       url: https://online-learning.tudelft.nl/courses/probability-theory/
-
-- category: Useful links
-  links:
-    - name: Study guide 2025-2026
-      url: https://studyguide2526.tudelft.nl/opleidingen/study-guide/educations/10542
-    - name: MyTimetable
-      url: https://mytimetable.tudelft.nl/schedule
-    - name: Official MSc Geomatics page
-      url: https://geomatics.tudelft.nl
-    - name: TUDelft templates+logos
-      url: https://www.tudelft.nl/en/tu-delft-corporate-design
-    - name: BK Boards of Studies (BoS)
-      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
-    - name: BK Board of Examiners (BoE)
-      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/board-of-examiners
-      extra: Edward Verbree
-
-- category: Help
-  links:
-    - name: Academic councellors
-      url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/academic-counsellors
-      extra: Struggling?
-    - name: Discord of MSc Geomatics
-      url: https://discord.com/invite/7AtyApHXrq
-      extra: Discuss with others
-    - name: Geogeeks
-      url: https://geomatics.bk.tudelft.nl/geogeeks
-      extra: 🤓
-    - name: MSc Geomatics forms
-      url: https://www.tudelft.nl/studenten/bk-studentenportal/praktische-zaken/formulieren
-      # extra:
