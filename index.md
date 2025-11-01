@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="row">
@@ -15,7 +15,7 @@ layout: default
             <td><a href="{{each.url}}">{{each.name}}</a></td>
             <td class="text-left">
             {% if each.extra %}
-              &emsp;{{each.extra}}
+              {{ each.extra | markdownify }}
             {% endif %}
             </td>
           </tr>
@@ -27,4 +27,3 @@ layout: default
   {% endfor %}
 
 </div>
-

@@ -1,13 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MSc Geomatics information page for students</title>
-    <link rel="stylesheet" href="css/chota.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/chota.css" />
     <style>
       body.dark {
-        --font-color: #481DC9;
+        --font-color: #481dc9;
         --color-grey: #ccc;
         --color-darkGrey: #777;
       }
@@ -15,18 +15,6 @@
   </head>
 
   <body>
-    <div id="top" class="container" role="document">
-      <div class="nav-center">
-        <a class="brand">
-          <img alt="bk voxelised" src="{{ "/img/bk-voxels.png" | prepend: site.url }}"/>
-        </a>
-      </div>
-      {{ content }}
-    </div>
-
-    <br>
-    <footer class="text-center text-light">
-      <p> <small><img src="https://icongr.am/simple/github.svg?size=16&color=a4565d&colored=false" alt="icon"> Modify, fix, or propose links: <a href="https://github.com/tudelftgeomatics/gm_landing/blob/main/_data/links.yml">github.com/tudelftgeomatics/gm_landing/</a></small></p>
-    </footer>
+    {{ content }}
   </body>
 </html>
