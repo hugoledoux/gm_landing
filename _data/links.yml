@@ -70,6 +70,9 @@
   links:
     - name: All forms
       url: https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms
+    - name: How to register for exams
+      url: https://www.tudelft.nl/en/student/my-study-me/education/courses-and-exams/exams/registration-for-exams
+      extra:
     - name: BK Boards of Studies (BoS)
       url: https://www.tudelft.nl/en/student/a-be-student-portal/organisation/boards-of-studies
       extra: Martijn Meijers
